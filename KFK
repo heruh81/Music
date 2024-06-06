@@ -109,22 +109,6 @@ https://mpd-v1.bigcric.site/api/171.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
 https://mpd-v1.bigcric.site/api/35.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="Sports", Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -265,5 +249,21 @@ https://fe.tring.al/delta/101/out/u/tringsport4ottencryption.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DDy1KRlnS8ehtPBHoEJB3A","k":"nv3sxt8bi-Heo-MBoQ2O1A"},{"kty":"oct","kid":"MFcjc0JgSO2ayMpXjQXb3w","k":"FC3QwulMSovlEsUeDZX5Yg"}],"type":"temporary"}
 https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTINF:-1 tvg-id="" group-title="SPOTV Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTINF:-1 tvg-id="" group-title="SPOTV Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
