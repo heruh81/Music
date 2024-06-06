@@ -37,8 +37,8 @@ https://mpd-v1.bigcric.site/api/24.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
 https://mpd-v1.bigcric.site/api/246.mpd
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="TATA-PLAY SPORTS",Star Sports Select 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -128,23 +128,7 @@ https://mpd-v1.bigcric.site/api/1033.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
 https://mpd-v1.bigcric.site/api/980.mpd
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="TATA-PLAY SPORTS",Eurosport HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=812
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd-v1.bigcric.site/api/812.mpd
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" group-title="TATA-PLAY SPORTS",Eurosport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=693
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd-v1.bigcric.site/api/693.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4JMXNcr/tringsport1.png" group-title="🇦🇱 Tring Sport",TRING SPORT 1 🇦🇱
