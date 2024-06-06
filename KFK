@@ -131,35 +131,35 @@ https://mpd-v1.bigcric.site/api/980.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4JMXNcr/tringsport1.png" group-title="🇦🇱 Tring Sport",TRING SPORT 1 🇦🇱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4JMXNcr/tringsport1.png" group-title="Tring Sports",TRING SPORT 1 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bTs8dBujTcqhpME_ZEeX8Q","k":"UpGo3oiq3gfBm8UV6pPDxw"},{"kty":"oct","kid":"AvO6vm6BTjmc5fZqL6nq9Q","k":"TtjGQOy3Cd9e0TbgFmleRQ"}],"type":"temporary"}
 https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DtDkpSN/tringsport2.png" group-title="🇦🇱 Tring Sport",TRING SPORT 2 🇦🇱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtDkpSN/tringsport2.png" group-title="Tring Sports",TRING SPORT 2 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HxQIHLAjS2aTccP3Mwqw0g","k":"SWk3vDdm569AbIqQuCY6nA"},{"kty":"oct","kid":"G0OAGD9ZRgeY2smJUcaJJA","k":"o-HeiGYrtbsdP_mrs-opUA"}],"type":"temporary"}
 https://fe.tring.al/delta/103/out/u/sportdyottencryption.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7XpKSpt/tringsport3.png" group-title="🇦🇱 Tring Sport",TRING SPORT 3 🇦🇱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7XpKSpt/tringsport3.png" group-title="Tring Sports",TRING SPORT 3 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hPodUZd5Sa6EE55hUgax4g","k":"-o3sXK3UaOzHbqEfdbDhCw"},{"kty":"oct","kid":"5gEVXCOaTB6v-lXNJlUdXQ","k":"9arH7GDJ5cD8EOxlmYQuXQ"}],"type":"temporary"}
 https://fe.tring.al/delta/102/out/u/sporttreottencryption.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzyYsrp/tringsport4.png" group-title="🇦🇱 Tring Sport",TRING SPORT 4 🇦🇱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzyYsrp/tringsport4.png" group-title="Tring Sports",TRING SPORT 4 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XVLrbu-AQz-sYPyZJV3cCw","k":"lfMyWz2CgxLNxRDzCigK-A"},{"kty":"oct","kid":"k4TWPYMZQjC2K9WrCIYmzg","k":"TyeD3zShbxO6KgdPAGLPKQ"}],"type":"temporary"}
 https://fe.tring.al/delta/101/out/u/tringsport4ottencryption.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yf1xSqM/tringsport5.png" group-title="🇦🇱 Tring Sport",TRING SPORT 5 🇦🇱
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yf1xSqM/tringsport5.png" group-title="Tring Sports",TRING SPORT 5 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
