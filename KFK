@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/78.mpd
+https://mpd-v1.bigcric.site/api/78.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS",Star Sports 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -17,7 +17,7 @@ https://mpd.bigcric.site/api/78.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/235.mpd
+https://mpd-v1.bigcric.site/api/235.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -26,7 +26,7 @@ https://mpd.bigcric.site/api/235.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=24
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/24.mpd
+https://mpd-v1.bigcric.site/api/24.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -35,7 +35,7 @@ https://mpd.bigcric.site/api/24.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/246.mpd
+https://mpd-v1.bigcric.site/api/246.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -44,7 +44,7 @@ https://mpd.bigcric.site/api/246.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/463.mpd
+https://mpd-v1.bigcric.site/api/463.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -53,7 +53,7 @@ https://mpd.bigcric.site/api/463.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=81
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/81.mpd
+https://mpd-v1.bigcric.site/api/81.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="SPORTS",SONY SPORTS TEN 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -62,7 +62,7 @@ https://mpd.bigcric.site/api/81.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=150
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/150.mpd
+https://mpd-v1.bigcric.site/api/150.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -71,7 +71,7 @@ https://mpd.bigcric.site/api/150.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=462
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/462.mpd
+https://mpd-v1.bigcric.site/api/462.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="SPORTS",SONY SPORTS TEN 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -80,7 +80,7 @@ https://mpd.bigcric.site/api/462.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=170
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/170.mpd
+https://mpd-v1.bigcric.site/api/170.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -89,7 +89,7 @@ https://mpd.bigcric.site/api/170.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=464
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/464.mpd
+https://mpd-v1.bigcric.site/api/464.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="SPORTS",SONY SPORTS TEN 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -98,7 +98,7 @@ https://mpd.bigcric.site/api/464.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=171
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/171.mpd
+https://mpd-v1.bigcric.site/api/171.mpd
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -107,7 +107,7 @@ https://mpd.bigcric.site/api/171.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=35
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd.bigcric.site/api/35.mpd
+https://mpd-v1.bigcric.site/api/35.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
