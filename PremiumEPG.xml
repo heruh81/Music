@@ -7,9 +7,6 @@
 <channel id="Champions TV 3"><display-name>Champions TV 3</display-name></channel>
 <channel id="Champions TV 5"><display-name>Champions TV 5</display-name></channel>
 <channel id="Champions TV 6"><display-name>Champions TV 6</display-name></channel>
-<channel id="beIN Sports 1"><display-name>beIN Sports 1</display-name></channel>
-<channel id="beIN Sports 2"><display-name>beIN Sports 2</display-name></channel>
-<channel id="beIN Sports 3"><display-name>beIN Sports 3</display-name></channel>  
 <programme start="20241113153000 +0000" stop="20241113180000 +0000" channel="Bein 1"><title>Billie Jean King Cup Highlights 2024</title></programme>
 <programme start="20241113180000 +0000" stop="20241113220000 +0000" channel="Bein 1"><title>Billie Jean King Cup</title></programme>
 <programme start="20241113220000 +0000" stop="20241113223000 +0000" channel="Bein 1"><title>Fast Zone</title></programme>
