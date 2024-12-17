@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241205">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20241217">
 <channel id="beINSports1.id"><display-name>beIN 1</display-name><url>https://vidio.com</url></channel>
 <channel id="beINSports3.id"><display-name>beIN 3</display-name><url>https://vidio.com</url></channel>
+<channel id="NBATV.id"><display-name>NBATV</display-name><url>https://vidio.com</url></channel>
 <channel id="ChampionsTV1.id"><display-name>Champions TV 1</display-name><url>https://vidio.com</url></channel>
 <channel id="ChampionsTV2.id"><display-name>Champions TV 2</display-name><url>https://vidio.com</url></channel>
 <channel id="ChampionsTV3.id"><display-name>Champions TV 3</display-name><url>https://vidio.com</url></channel>
